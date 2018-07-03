@@ -61,5 +61,3 @@ print("vowles: " + str(v))
 print("lowercace: " + str(lc))
 print("symbols: " + str(S))
 print("length: " + str(len(word)))
-
-def wordanalyz
