@@ -8,8 +8,7 @@ def wordanalyz(word):
     lc=0
     concenents="qwrtpsdfghjklmnbvcxz"
     vowels="eyuioa"
-    symbols="~`!@#$%^&*()_-+={[}]:;|<,>.?/\"'\\"
-
+    symbols="~`!@#$%^&*()_-+"
     for ch in word:
         #check for digits
         if ch.isdigit():
