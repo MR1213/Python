@@ -2,10 +2,10 @@ import turtle
 
 turtle.shape("turtle")
 
-turtle.forward(25)
+turtle.forward(20)
 
 x = 100
-a = 90
+a = 1111
 
 turtle.forward(x)
 turtle.left(a)
