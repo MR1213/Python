@@ -1,0 +1,62 @@
+word = input("Give me a phrase to encrypt:")
+dic = {
+    "a": "z",
+    "b": "q",
+    "c": "e",
+    "d": "g",
+    "e": "i",
+    "f": "b",
+    "g": "m",
+    "h": "p",
+    "i": "n",
+    "j": "w",
+    "k": "f",
+    "l": "c",
+    "m": "u",
+    "n": "y",
+    "o": "h",
+    "p": "t",
+    "q": "l",
+    "r": "x",
+    "s": "k",
+    "t": "d",
+    "u": "v",
+    "v": "r",
+    "w": "j",
+    "x": "s",
+    "y": "o",
+    "z": "a",
+    "A": "Z",
+    "B": "Q",
+    "C": "E",
+    "D": "G",
+    "E": "I",
+    "F": "B",
+    "G": "M",
+    "H": "P",
+    "I": "N",
+    "J": "W",
+    "K": "F",
+    "L": "C",
+    "M": "U",
+    "N": "Y",
+    "O": "H",
+    "P": "T",
+    "Q": "L",
+    "R": "X",
+    "S": "K",
+    "T": "D",
+    "U": "V",
+    "V": "R",
+    "W": "J",
+    "X": "S",
+    "Y": "O",
+    "Z": "A",}
+encrypted_word = ""
+for ch in word:
+    if ch in dic:
+        encrypted_word = encrypted_word + dic[ch]
+    else:
+        encrypted_word = encrypted_word + ch
+
+print(encrypted_word)
