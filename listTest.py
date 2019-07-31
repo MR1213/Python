@@ -1,3 +1,3 @@
-import random
-for x in range(100):
-  print(random.randint(1,6))
+import datetime
+now = datetime.datetime.now()
+print(type(now.year))

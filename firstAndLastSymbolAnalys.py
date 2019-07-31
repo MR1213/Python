@@ -11,4 +11,4 @@ def mystr(word):
         print("Different!")
 
 
-mystr("12345")
+mystr("1234567890")
