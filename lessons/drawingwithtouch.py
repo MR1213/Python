@@ -1,7 +1,6 @@
 import turtle
 turtle.setup(400, 500)
 wn = turtle.Screen()
-wn.title("How to handle mouse clicks on the window!")
 tess = turtle.Turtle()
 tess.pensize(3)
 tess.shape("circle")

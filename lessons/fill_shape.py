@@ -1,8 +1,8 @@
 import turtle
-a=6
-b=25
-c=75
-d=15
+a=360
+b=2
+c=1
+d=0
 turtle.speed(0)
 turtle.shape("turtle")
 turtle.fillcolor('blue')
