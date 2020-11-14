@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96f39370-5f7a-4111-852c-e7b4cf23c86b" name="Default" comment="added new projects">
-      <change afterPath="$PROJECT_DIR$/lessons/Buncotest_001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clock002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/clock001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/Bunco_With_Shuffle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/Failed_Bunco_Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/Messages.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/untitled.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processing/image_processing/image_processing.pde" beforeDir="false" afterPath="$PROJECT_DIR$/Processing/image_processing/image_processing.pde" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/do_not_name_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/clock.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphs/clock.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lessons/Bunco_001.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/Bunco_001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons/dice.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/dice.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,14 +26,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>range</find>
-    </findStrings>
-    <dirStrings>
-      <dir>E:\dev\ws\maksym\python</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -41,18 +35,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../tools/Python/Python38-32" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\dev\max\Python\graphs" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dev\ws\Python\graphs" />
       <recent name="E:\dev\ws\maksym\python" />
       <recent name="E:\dev\ws\maksym\python\graphs" />
       <recent name="C:\dev\max\Python\graphs" />
       <recent name="C:\dev\max\Python" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\max\Python\graphs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -67,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Buncotest_001">
+  <component name="RunManager" selected="Python.clock">
     <configuration name="3-d drawer" type="PythonConfigurationType" factoryName="Python">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Buncotest_001" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Clock001" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,7 +117,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/Buncotest_001.py" />
+      <option name="SCRIPT_NAME" value="D:\dev\ws\Python\graphs\clock001.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Clock002" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/dice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Clock002.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="drawingwithtouch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Failed_Bunco_Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,7 +159,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/drawingwithtouch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/Failed_Bunco_Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clock" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graphs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graphs/clock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clock001" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graphs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graphs/clock001.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,65 +231,23 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fill_shape" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/fill_shape.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="wow" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/wow.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.3-d drawer" />
       <item itemvalue="Python.Bunco_001" />
       <item itemvalue="Python.fibonachinumbers" />
-      <item itemvalue="Python.dice" />
-      <item itemvalue="Python.drawingwithtouch" />
-      <item itemvalue="Python.fill_shape" />
-      <item itemvalue="Python.wow" />
-      <item itemvalue="Python.Buncotest_001" />
+      <item itemvalue="Python.Failed_Bunco_Test" />
+      <item itemvalue="Python.clock" />
+      <item itemvalue="Python.Clock001" />
+      <item itemvalue="Python.Clock002" />
+      <item itemvalue="Python.clock001" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Buncotest_001" />
-        <item itemvalue="Python.dice" />
-        <item itemvalue="Python.fill_shape" />
-        <item itemvalue="Python.wow" />
-        <item itemvalue="Python.drawingwithtouch" />
+        <item itemvalue="Python.clock" />
+        <item itemvalue="Python.clock001" />
+        <item itemvalue="Python.Clock002" />
+        <item itemvalue="Python.Clock001" />
+        <item itemvalue="Python.Failed_Bunco_Test" />
       </list>
     </recent_temporary>
   </component>
@@ -456,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566189412336</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Month.py">
+      <created>1579026244932</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1579026244935</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -464,7 +466,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -492,7 +496,8 @@
     <MESSAGE value="learned how to fill shapes" />
     <MESSAGE value="added new projects" />
     <MESSAGE value="bunco" />
-    <option name="LAST_COMMIT_MESSAGE" value="bunco" />
+    <MESSAGE value="Month.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Month.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -501,6 +506,10 @@
           <url>file://$PROJECT_DIR$/lessons/code_hider_001.py</url>
           <line>54</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lessons/Month.py</url>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
