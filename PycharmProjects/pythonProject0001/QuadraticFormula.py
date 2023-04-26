@@ -8,5 +8,5 @@ value1 = (-b+((b**2)-4*(a*c))**0.5)/(2*a)
 
 value2 = (-b-((b**2)-4*(a*c))**0.5)/(2*a)
 
-print("Value 1 is: " + str(value1))
-print("Value 2 is: " + str(value2))
+print("One answer is: " + str(value1))
+print("Another answer is: " + str(value2))

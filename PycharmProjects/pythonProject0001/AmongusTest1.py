@@ -1,6 +1,6 @@
 import random
-from os import system, name
-from time import sleep
+from os import system
+
 
 print("Hello, welcome to Among us Random task picker:")
 while 1:
