@@ -141,3 +141,6 @@ while True:
         else:
             print("That letter isn't in the word.")
             number_incorrect_letters += 1
+            
+            
+print("The word was ", word )
