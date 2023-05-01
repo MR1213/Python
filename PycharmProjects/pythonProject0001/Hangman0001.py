@@ -106,8 +106,9 @@ health_6 ='''
 healths = [health_0, health_1, health_2, health_3, health_4, health_5, health_6]
 
 number_incorrect_letters = 0
+live = 6
 
-while True:
+while live > 0:
     printWord(guessed_letters, used_letters, healths[number_incorrect_letters])
     if check_win(guessed_letters, word):
         print("You guessed the word!!!")
@@ -129,6 +130,7 @@ while True:
         else:
             print("That isn't the word.")
             number_incorrect_letters += 1
+            live = live - 1
     elif len(guess) > 1:
         print("Invalid guess")
         number_incorrect_letters += 1
@@ -141,6 +143,9 @@ while True:
         else:
             print("That letter isn't in the word.")
             number_incorrect_letters += 1
-            
-            
+            live = live - 1
+
+if live == 0:
+    print("You lose.")
+
 print("The word was ", word )
